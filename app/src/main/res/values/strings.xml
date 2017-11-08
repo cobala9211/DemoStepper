@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoStepper</string>
+    <string name="app_title">Demo implement Lib verticalStepperView customize view root step by step of view.</string>
+    <string name="title_vertical_step">Title item vertical step</string>
+    <string name="title_vertical_step_1">Title item vertical step 1</string>
+    <string name="title_vertical_step_2">Title item vertical step 2</string>
+    <string name="title_item_ok">OK</string>
+    <string name="title_item_toggle">TOGGLE</string>
+    <string name="title_item_cancel">CANCEL</string>
+    <string name="content_step_0">This is the first step. Click OK button to next step.\n\nTest Message.</string>
+    <string name="content_step_1">This is the second step. Click OK button to next step or Cancel button to previous step.\n\nThe summary text of each step is optional. If you haven\'t set, summary view won\'t be displayed.</string>
+    <string name="content_step_2">This is the last step. You can finish steps now.</string>
+</resources>
